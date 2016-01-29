@@ -1,0 +1,30 @@
+If string theory is a theory of gravity, then what is the relationship between strings, gravitons and spacetime geometry?
+
+Strings and gravitons
+
+   The simplest case to imagine is a single string traveling in a flat spacetime in d dimensions. As the string moves around in spacetime, it sweeps out a surface in spacetime called the string worldsheet, a two-dimensional surface with one dimension of space (s) and one dimension of time (t). 
+There are many ways to examine this string theory. One way is to expand the string coordinates Xa(s,t) into oscillator modes and demand spacetime Lorentz invariance and the absence of negative norm states. A different way to examine the string theory is through the field theory defined on the worldsheet, which is described by the action where hmn is the metric on the worldsheet, R(2) is the curvature of the worldsheet, and F is a scalar field called the dilaton. The consistency condition for string theory when described in this manner is that the field theory on the worldsheet satisfy the condition for scale invariance, also known as conformal invariance.    The set of functions that describe the scaling properties of quantum fields are called the beta functions. String worldsheet physics is invariant under a change in scale if the beta function bF for the dilaton field F vanishes, which happens when d=26 for bosonic strings.
+
+   For superstring theories, conformal invariance is replaced by superconformal invariance, and the required spacetime dimension is 10.
+The spacetime oscillation spectrum satisfies Lorentz invariance in 26 dimensions, so that these string oscillations on the worldsheet can be classified by the spacetime properties of mass and spin, just like elementary particles. A theory based on open strings has massless oscillations that are Lorentz vectors, with spin 1. A closed string theory is like a product of two open string theories, with an oscillation mode that travels in spacetime as a two index symmetric tensor, with spin 2.
+   This mode with spin 2 propagates like as small fluctuation in the gravitational field propagates according to general relativity. This string oscillation mode should then be the graviton, the particle that mediates the gravitational force. The presence of this spin 2 oscillation mode was the first clue that string theory was not a theory of strong interactions, but a potential quantum theory of gravity.
+
+Strings and spacetime geometry
+
+   In string theory, if we start with flat spacetime, we see gravitons in the spectrum, and therefore we deduce that gravity must exist. But if gravity exists, then spacetime must be curved and not flat. How do the Einstein equations for the curvature of spacetime come out of string theory?
+If a closed string is traveling in a curved spacetime with metric field gab(X) , then the string worldsheet theory looks like
+
+   The spacetime metric gab(X) enters the two-dimensional theory on the string worldsheet as a matrix of nonlinear couplings between the Xa(s,t). 
+Once again, the goal of conformal invariance is met by demanding that the beta functions vanish. When the string coordinates are expanded in a perturbation series in the string scale a', the terms in the beta functions that are the lowest order in a' contain terms proportional to the Ricci curvature Rab of the spacetime metric field gab(x) and second derivatives of the scalar field F(x). The vanishing of the beta functions ends up being equivalent to satisfying the Einstein equation for a spacetime with a scalar field at distance scales large compared to the string scale. Notice this means that our understanding of spacetime from perturbative string theory will always be incomplete, except in some special circumstances described below. 
+
+What about strings and black holes?
+
+    Black holes are solutions to the Einstein equation, therefore string theories that contain gravity also predict the existence of black holes. But string theories give rise to more interesting symmetries and types of matter than are commonly assumed in ordinary Einstein relativity. In particular, electric/magnetic duality in string theory has led to the discovery of many new types of black holes with combinations of electric and magnetic charge, coupled to both scalar and axion fields. Also, string theory has motivated an understanding of black holes in higher dimensions, and of black extended objects such as strings and branes. Some of these new stringy extreme black hole solutions possess unbroken supersymmetries at the event horizon, so that the physics at the horizon is protected from higher order perturbative corrections by virtue of supersymmetric nonrenormalization theorems. These types of black holes have been important for understanding the origin of black hole entropy in string theory,and that will be described in the next section.
+
+Is spacetime fundamental?
+
+    Note that string theory does not predict that the Einstein equations are obeyed exactly. Perturbative string theory adds an infinite series of corrections to the Einstein equation
+
+   So our understanding of spacetime in perturbative string theory is only valid as long as spacetime curvature is small compared to the string scale. However, when these correction terms become large, there is no spacetime geometry that is guaranteed to describe the result. Only under very strict symmetry conditions, such as unbroken supersymmetry, are there known exact solutions to the spacetime geometry in string theory. This is a hint that perhaps spacetime geometry is not something fundamental in string theory, but something that emerges in the theory at large distance scales or weak coupling. This is an idea with enormous philosophical implications.
+
+
