@@ -4,7 +4,7 @@ Text Analytics is a program written in C++ using a word tree map class with impl
 To Compile:
 ```
 g++ -c WTM.cpp driver.cpp
-g++ WTM.o driver.o -o <output_name>
+g++ WTM.o driver.o -o test
 ```
 
 ![alt tag](http://i.imgur.com/Ab2h3Rq.jpg)
